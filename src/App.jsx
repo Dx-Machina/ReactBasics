@@ -12,7 +12,9 @@ function App() {
     <>
       {/* <Hello /> */}
       <HelloWithProps person={person}/>
-      <Fruits />
+      {/* <Fruits /> */}
+      {/* <Message /> */}
+      <Counter/>
     </>
   );
 }
